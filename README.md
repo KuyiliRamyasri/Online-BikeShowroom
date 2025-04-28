@@ -1,4 +1,4 @@
-# Bike Showroom 🚲
+# Bike Showroom
 
 Welcome to the Bike Showroom project! This is a full-stack application where users can browse, purchase, and manage bikes online.
 
@@ -17,6 +17,6 @@ Welcome to the Bike Showroom project! This is a full-stack application where use
 # Home Page
 
 <div style="display: flex;">
-    <img src="screenshots/HomePage1.jpg" alt="Homepage Screenshot Part 1" style="width: 45%; margin-right: 5%;">
-    <img src="screenshots/HomePage2.jpg" alt="Homepage Screenshot Part 2" style="width: 45%;">
+    <img src="frontend/public/screenshots/HomePage1.jpg" alt="Homepage Screenshot Part 1" style="width: 45%; margin-right: 5%;">
+    <img src="frontend/public/screenshots/HomePage2.jpg" alt="Homepage Screenshot Part 2" style="width: 45%;">
 </div>
